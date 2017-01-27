@@ -1,0 +1,21 @@
+#searchText{
+    width: 200px;
+    margin-top:50px;
+}
+body{
+    text-align: center;
+    background-color: lightcyan;
+}
+#list{
+
+    list-style-type: none;
+}
+#list-block{
+    background-color: azure;
+    padding: 10px;
+    margin: 20px;
+}
+a{
+    text-decoration: none !important;
+    color: black;
+}
